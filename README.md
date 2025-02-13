@@ -1,4 +1,4 @@
-# Instagram-Snip-Username
+# Instagram-Snip-Username 2025
 This tool autofetches names from Instagram automatically the username that the user wants.
 
 ## Errors
