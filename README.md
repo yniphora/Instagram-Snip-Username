@@ -1,6 +1,3 @@
-# IMG
-![img](https://i.ibb.co/spfyRML4/image.png)
-
 # Contact Telegram: yniphora8
 
 # Instagram-Snip-Username 2025
